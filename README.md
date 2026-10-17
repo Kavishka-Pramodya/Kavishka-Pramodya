@@ -1,64 +1,156 @@
-<h1 align="center">Hi 👋, I'm Pramodya Rathnayaka</h1>
-<h2 align="center">University of Colombo School of Computing Student</h2>
+# PRAMODYA RATHNAYAKA
+### Information Systems · Software Engineering · Embedded Systems
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pramodya-git&label=Profile%20views&color=0e75b6&style=flat" alt="pramodya-git" /> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=7CFFB2&center=true&vCenter=true&width=650&lines=Turning+ideas+into+working+systems.;Building+for+the+web+and+beyond.;Software+meets+the+physical+world.;Learn.+Build.+Test.+Improve." alt="Typing introduction" />
+</p>
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
+<p align="center">
+  <a href="https://github.com/Pramodya-git">
+    <img src="https://komarev.com/ghpvc/?username=Pramodya-git&style=flat-square&color=7CFFB2&label=PROFILE+VISITS" alt="Profile visits" />
+  </a>
+  <img src="https://img.shields.io/badge/BASED_IN-SRI_LANKA-171717?style=flat-square" alt="Based in Sri Lanka" />
+  <img src="https://img.shields.io/badge/FOCUS-BUILDING-171717?style=flat-square" alt="Building" />
+</p>
 
-<!--<img align="right" width = 250px height = 200px alt="Github" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/92f233e8-fd56-4521-bc8e-b48fe669209a" />-->
+---
 
-I'm a Pramodya Rathnayaka and Information Systems student who is passionate about Programming Systems,Embedded Systems , and Computer Programming.
-<br />
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
+## `01 / THE ENGINEER`
 
-<br />
-<br />
+I'm **Pramodya Rathnayaka**, an Information Systems student at the **University of Colombo School of Computing (UCSC)**, Sri Lanka.
 
-- 🌱 I’m currently learning **Flutter & Dart**
+I enjoy exploring the space where software meets real-world problems — from interactive web applications and database-driven systems to embedded programming and robotics.
 
-- 💬 Ask me about **Web Development**
+I don't want to stop at making things that look good. I want to understand how they work, why they work, and how to make them better.
 
-- 📫 How to reach me **kavishkapramodya2004@gmail.com**
+```text
+INTERESTS   →  Software · Embedded Systems · Robotics
+APPROACH    →  Design → Develop → Test → Improve
+MINDSET     →  Curiosity over assumptions
+CURRENT GOAL → Build useful things and grow through practice
+```
 
-- ⚡ Fun fact **Call me Pramodya**
+---
 
+## `02 / THE WORKBENCH`
 
-<br />
-<br />
-<div align="center">
-    <picture align="center">
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
-      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
-    </picture>
-</div><br />
-<br />
+<p align="center">
+  <img src="https://img.shields.io/badge/01-WEB_DEVELOPMENT-202020?style=for-the-badge&logo=googlechrome&logoColor=7CFFB2" alt="Web development" />
+  <img src="https://img.shields.io/badge/02-BACKEND_&_DATA-202020?style=for-the-badge&logo=mysql&logoColor=7CFFB2" alt="Backend and data" />
+  <img src="https://img.shields.io/badge/03-EMBEDDED_&_ROBOTICS-202020?style=for-the-badge&logo=arduino&logoColor=7CFFB2" alt="Embedded systems and robotics" />
+</p>
 
-
-<table align="center">
+<table>
   <tr>
-    <td width="50%" align="center">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pramodya-git&theme=dark&show_icons=true&count_private=true" />
-      <br>
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats"
-           alt="Pramodya streak"
-           src="https://github-readme-streak-stats.herokuapp.com/?user=Pramodya-git&theme=dark&hide_border=false" />
+    <td width="50%" valign="top">
+      <h3>⌘ Software & Web</h3>
+      <p>Building interfaces and functional web applications with an emphasis on usability, maintainability, and practical problem-solving.</p>
+      <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>PHP</code> <code>SQL</code></p>
     </td>
-    <td width="50%" align="center">
-      <img align="center"
-           src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pramodya-git&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+    <td width="50%" valign="top">
+      <h3>⌁ Embedded Systems</h3>
+      <p>Exploring the connection between hardware and software through microcontrollers, sensors, motors, and low-level programming.</p>
+      <p><code>C</code> <code>Arduino</code> <code>ESP32</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>◈ Mobile & Application Development</h3>
+      <p>Learning to create applications that bring useful features and thoughtful interfaces together.</p>
+      <p><code>Flutter</code> <code>Dart</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⌘ Tools & Exploration</h3>
+      <p>Using development tools, version control, and AI-assisted workflows to explore ideas and improve implementation.</p>
+      <p><code>Git</code> <code>GitHub</code> <code>Python</code> <code>Linux</code></p>
     </td>
   </tr>
 </table>
 
+---
 
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+## `03 / CURRENT EXPERIMENTS`
+
+Things I'm interested in developing and learning:
+
+- **Intelligent web applications** — practical tools that solve everyday problems.
+- **Embedded engineering** — connecting sensors, controllers, and software.
+- **Mobile development** — expanding my skills with Flutter and Dart.
+- **Robotics** — experimenting with movement, sensing, control, and autonomous navigation.
+- **Product thinking** — turning technical ideas into useful, well-designed experiences.
+
+> Every experiment is an opportunity to understand something more deeply.
+
+---
+
+## `04 / SELECTED BUILDS`
+
+I use this space to document what I build, what I learn, and how my projects evolve.
+
 <p align="center">
-<a href="https://linkedin.com/in/kavishka pramodya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kavishka pramodya" height="30" width="40" /></a>
-<a href="https://fb.com/pramodya rathnayaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pramodya rathnayaka" height="30" width="40" /></a>
+  <a href="https://github.com/Pramodya-git?tab=repositories">
+    <img src="https://img.shields.io/badge/EXPLORE_MY_REPOSITORIES-7CFFB2?style=for-the-badge&logo=github&logoColor=101010" alt="Explore my repositories" />
+  </a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+<!--
+Add your strongest real projects here.
+
+For each project, include:
+- Project name
+- The problem it solves
+- Technologies used
+- A link to its repository or live demo
+
+Only feature projects that you have actually built.
+-->
+
+---
+
+## `05 / THE TOOLKIT`
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,python,c,arduino,flutter,dart,git,github,linux,react&theme=dark&perline=7" alt="Technologies and tools" />
+</p>
+
+---
+
+## `06 / GITHUB ACTIVITY`
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Pramodya-git&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7CFFB2&icon_color=7CFFB2&text_color=E6EDF3&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pramodya-git&layout=compact&hide_border=true&bg_color=0D1117&title_color=7CFFB2&text_color=E6EDF3&langs_count=8" alt="Most used programming languages" />
+</p>
+
+<p align="center">
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pramodya-git&hide_border=true&background=0D1117&ring=7CFFB2&fire=7CFFB2&currStreakLabel=7CFFB2&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E" alt="GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/Pramodya-git/Pramodya-git/output/github-contribution-grid-snake-dark.svg" alt="Contribution activity animation" />
+</p>
+
+---
+
+## `07 / CONNECT`
+
+<p align="center">
+  <a href="https://github.com/Pramodya-git">
+    <img src="https://img.shields.io/badge/GitHub-Explore_my_work-171717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <!-- Replace the placeholder below with your real LinkedIn profile URL. -->
+  <a href="YOUR_LINKEDIN_PROFILE_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:kavishkapramodya2004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say_hello-171717?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Curious by nature. An engineer in progress. Always building.</i>
+</p>
+
+<p align="center">
+  <sub>Thanks for stopping by — feel free to explore my repositories.</sub>
+</p>
